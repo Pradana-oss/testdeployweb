@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pradana-oss/testdeployweb.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Pradana-oss/testdeployweb.git/static/js/main.31c41151.chunk.js",
+    "main.js.map": "/Pradana-oss/testdeployweb.git/static/js/main.31c41151.chunk.js.map",
+    "runtime-main.js": "/Pradana-oss/testdeployweb.git/static/js/runtime-main.59e80d4e.js",
+    "runtime-main.js.map": "/Pradana-oss/testdeployweb.git/static/js/runtime-main.59e80d4e.js.map",
+    "static/js/2.791bf21d.chunk.js": "/Pradana-oss/testdeployweb.git/static/js/2.791bf21d.chunk.js",
+    "static/js/2.791bf21d.chunk.js.map": "/Pradana-oss/testdeployweb.git/static/js/2.791bf21d.chunk.js.map",
+    "static/js/3.ef94b22d.chunk.js": "/Pradana-oss/testdeployweb.git/static/js/3.ef94b22d.chunk.js",
+    "static/js/3.ef94b22d.chunk.js.map": "/Pradana-oss/testdeployweb.git/static/js/3.ef94b22d.chunk.js.map",
+    "index.html": "/Pradana-oss/testdeployweb.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Pradana-oss/testdeployweb.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.791bf21d.chunk.js.LICENSE.txt": "/Pradana-oss/testdeployweb.git/static/js/2.791bf21d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Pradana-oss/testdeployweb.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59e80d4e.js",
+    "static/js/2.791bf21d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.31c41151.chunk.js"
+  ]
+}
